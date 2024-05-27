@@ -574,6 +574,8 @@ But don't forget to do coding problems from above while you learn!
 - [x] [Cheat sheet](http://bigocheatsheet.com/)
 - [x] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
+-[x] Revise these again.
+
 Well, that's about enough of that.
 
 When you go through "Cracking the Coding Interview", there is a chapter on this, and at the end there is a quiz to see
