@@ -574,9 +574,9 @@ But don't forget to do coding problems from above while you learn!
 - [x] [Cheat sheet](http://bigocheatsheet.com/)
 - [x] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
--[x] Revise these again.
+- [ ] Revise these again.
 
-i didnt(last updated june 4)
+
 
 Well, that's about enough of that.
 
