@@ -576,6 +576,8 @@ But don't forget to do coding problems from above while you learn!
 
 -[x] Revise these again.
 
+i didnt(last updated june 4)
+
 Well, that's about enough of that.
 
 When you go through "Cracking the Coding Interview", there is a chapter on this, and at the end there is a quiz to see
